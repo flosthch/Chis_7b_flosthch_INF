@@ -1,17 +1,19 @@
 # Chis_7b_flosthch_INF Wettbewerb
 
-* ### Scratch Quiz
+* ## Scratch Quiz
 *    ![jjwinf](/jjwinf.png)
-* ### jwinf Aufgaben
+* ## jwinf Aufgaben
 *    ![jwinf](/jwinf.png)
-* ### Auszählung der Punkte
+* ## Auszählung der Punkte
 *    ![jwinf](/punkte.png)
 
-### Alle Tabs _Offen_ lassen!!!
+## Alle Tabs _Offen_ lassen!!!
 
-### Aufgaben auf Scratch (Scratchsuche Studios): Chris 7b
-### .                                  Programm: jjwinf
+## Aufgaben auf Scratch (Scratchsuche Studios): Chris 7b
+## .................................. Programm: jjwinf
 
-### Keine Hackversuche, werden gemeldet!!!
+## Keine Hackversuche, werden gemeldet!!!
 
-### VIEL ERFOLG!!!
+## Noch Fragen?
+
+## VIEL ERFOLG!!!
