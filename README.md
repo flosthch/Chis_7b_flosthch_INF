@@ -9,9 +9,4 @@
  * https://jwinf.de/task/368
  * https://jwinf.de/task/371
 
-```diff
-
-- **Alle Tabs bitte _OFFEN_ lassen!!!** 
-
-```
-
+ - **Alle Tabs bitte _OFFEN_ lassen!!!** 
