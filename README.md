@@ -14,7 +14,7 @@
 
 
 ### Aufgaben auf Scratch (Scratchsuche Studios): Chris 7b
-### ............................................................... Programm: jjwinf
+### .................................................................... Programm: jjwinf
 
 
 
