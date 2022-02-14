@@ -7,11 +7,11 @@
 * ### Auszählung der Punkte
 *    ![jwinf](/punkte.png)
 
-**### Alle Tabs _Offen_ lassen!!!**
+### Alle Tabs _Offen_ lassen!!!
 
-**### Aufgaben auf Scratch(_Scratchsuche Studios_): Chris 7b**
-**### .                                  _Programm_: jjwinf**
+### Aufgaben auf Scratch (Scratchsuche Studios): Chris 7b
+### .                                  Programm: jjwinf
 
-**### _Keine Hackversuche, werden gemeldet!!!_**
+### Keine Hackversuche, werden gemeldet!!!
 
-**### VIEL ERFOLG!!!**
+### VIEL ERFOLG!!!
