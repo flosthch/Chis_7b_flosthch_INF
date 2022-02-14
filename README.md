@@ -1,12 +1,17 @@
 # Chis_7b_flosthch_INF Wettbewerb
- 
- **Hier sind die Links zu den Aufgaben:**
 
- * https://jwinf.de/task/339
- * https://jwinf.de/task/350
- * https://jwinf.de/task/352
- * https://jwinf.de/task/337
- * https://jwinf.de/task/368
- * https://jwinf.de/task/371
+* Scratch Quiz
+    ![jjwinf](/jjwinf.png)
+* jwinf Aufgaben
+    ![jwinf](/jwinf.png)
+* Auszählung der Punkte
+    ![jwinf](/punkte.png)
 
- - **Alle Tabs bitte _OFFEN_ lassen!!!** 
+**Alle Tabs _Offen_ lassen!!!**
+
+**Aufgaben auf Scratch(_Scratchsuche Studios_): Chris 7b**
+**.                                  _Programm_: jjwinf**
+
+**_Keine Hackversuche, werden gemeldet!!!_**
+
+**VIEL ERFOLG!!!**
