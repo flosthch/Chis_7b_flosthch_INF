@@ -4,26 +4,21 @@
 *    ![jjwinf](/jjwinf.png)
 * ## jwinf Aufgaben
 *    ![jwinf](/jwinf.png)
-* ## Auszählung der Punkte
+
+
+* ## Wettbewerb Auszählung
 *    ![jwinf](/punkte.png)
+
 
 
 
 ### Alle Tabs _Offen_ lassen!!!
 
-
-
 ### Aufgaben auf Scratch (Scratchsuche Studios): Chris 7b
 ### .................................................................... Programm: jjwinf
 
-
-
 ### Keine Hackversuche, werden gemeldet!!!
 
- 
-
 ### Noch Fragen?
-
-
 
 ### VIEL ERFOLG!!!
