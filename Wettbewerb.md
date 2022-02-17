@@ -4,4 +4,6 @@ https://jwinf.de/clogin
 
 Gruppencode: **********
 
+Auswertung: https://jwinf.de/contest/50/result/
+
 ![login](/login.png)
