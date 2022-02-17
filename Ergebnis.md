@@ -13,5 +13,5 @@
 
  **Fertig? Bitte Warten! _Nicht Link anklicken!_**
 
-https://jwinf.de/clogin
-https://jwinf.de/contest/50
+ * https://jwinf.de/clogin
+ * https://jwinf.de/contest/50
