@@ -2,7 +2,7 @@
 
 https://jwinf.de/clogin
 
-Gruppencode: **********
+Gruppencode: gXHvSvS
 
 Auswertung: https://jwinf.de/contest/50/result/
 
